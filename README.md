@@ -44,4 +44,7 @@ of the API. The information is then stored in the database. Posts are displayed 
 post object which is formatted with some html and react. Once the user wants to logout, they hit the top right button and this triggers a post request to the logout endpoint. This clears the current states of the web application and you continue browsing without a user token.
 
 ## Screen Shots
-![1](/images/Create Post.png)
+![2](/images/MainPage.png)
+![3](/images/SignUp.png)
+![1](/images/CreatePost.png)
+
